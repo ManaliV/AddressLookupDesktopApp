@@ -1,6 +1,0 @@
-D:\Test\AddressLookupDesktop\AddressLookupDesktopApp\AddressLookup\CommonPathAndData\bin\Debug\CommonPathAndData.dll
-D:\Test\AddressLookupDesktop\AddressLookupDesktopApp\AddressLookup\CommonPathAndData\bin\Debug\CommonPathAndData.pdb
-D:\Test\AddressLookupDesktop\AddressLookupDesktopApp\AddressLookup\CommonPathAndData\obj\Debug\CommonPathAndData.csproj.CoreCompileInputs.cache
-D:\Test\AddressLookupDesktop\AddressLookupDesktopApp\AddressLookup\CommonPathAndData\obj\Debug\CommonPathAndData.dll
-D:\Test\AddressLookupDesktop\AddressLookupDesktopApp\AddressLookup\CommonPathAndData\obj\Debug\CommonPathAndData.pdb
-D:\Test\AddressLookupDesktop\AddressLookupDesktopApp\AddressLookup\CommonPathAndData\obj\Debug\CommonPathAndData.csprojAssemblyReference.cache
